@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "TRANSPORTATION",
+        "price": "$300",
+        "description": "Numerous transportation options exist, ranging from one-way trips in a first-class jet to budget accommodation on a freighter.",
+        "img": "https://i.ibb.co/RPY98Hk/Transportation.png"
+    },
+    {
+        "id": 2,
+        "name": "ACCOMMODATION",
+        "price": "$100",
+        "description": "A hospitality exchange or home stay network is an organization that connects travellers with local residents in the cities they're visiting.",
+        "img": "https://i.ibb.co/C7PsQW4/accommodation.png"
+    },
+    {
+        "id": 3,
+        "name": "MEALS AND DRINKS",
+        "price": "$150",
+        "description": "Food and drink are often the highlights of—if not the reason for—many getaways. Travelers plan journeys around wine regions, exclusive restaurants..",
+        "img": "https://i.ibb.co/FzjbfwG/meals-and-drink.png"
+    },
+    {
+        "id": 4,
+        "name": "ENTERTAINMENT",
+        "price": "$180",
+        "description": "Entertainment Travel is the agency of choice, and has been for more than two decades, providing travel services to the entertainment industry. Bands and their entourages out on tour for 3 months or 3 years rely on ET to ensure privacy, safety and accuracy for their arrangements.",
+        "img": "https://i.ibb.co/TrgBr0C/Entertaitment.png"
+    },
+    {
+        "id": 5,
+        "name": "INFORMATION",
+        "price": "$100",
+        "description": "Get advice about travelling abroad, including the latest information on coronavirus, safety and security, entry requirements and travel warnings.",
+        "img": "https://i.ibb.co/c1R2gPY/Tourist-information.png"
+    },
+    {
+        "id": 6,
+        "name": "HOTEL AND RESTAURANT",
+        "price": "$300",
+        "description": "Plan your next trip, read reviews and get travel advice from our community ... book the perfect tour or attraction, and reserve a table at the best restaurants.",
+        "img": "https://i.ibb.co/tQfTrkT/hotel-and-restaurant.png"
+    }
+]
+
+
+
+
+
+
+
+
